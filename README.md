@@ -27,7 +27,7 @@ If the external API is up:
 {
   "status": "success",
   "user": {
-    "email": "ayomide@example.com",
+    "email": "oyetimehin31@gmail.com",
     "name": "Oyetimehin Ayomide",
     "stack": "Java/Spring Boot"
   },
@@ -42,7 +42,7 @@ If the external API is down:
 {
   "status": "success",
   "user": {
-    "email": "ayomide@example.com",
+    "email": "oyetimehin31@gmail.com",
     "name": "Oyetimehin Ayomide",
     "stack": "Java/Spring Boot"
   },
