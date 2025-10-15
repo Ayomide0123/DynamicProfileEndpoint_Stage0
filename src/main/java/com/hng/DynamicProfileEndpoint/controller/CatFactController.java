@@ -11,7 +11,6 @@ import java.time.Instant;
 import java.time.format.DateTimeFormatter;
 
 @RestController
-@RequestMapping("/")
 public class CatFactController {
     private final FetchCatFactService fetchCatFactService;
 
